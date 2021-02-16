@@ -1,0 +1,32 @@
+p {
+    border: px solid powderblue;
+    padding: 30px;
+    padding-left: 10%;
+    padding-right: 10%;
+     }
+     
+     div{padding: 4%  1%;
+         background-color: rgba(176, 214, 248, 0.774);
+       }
+       .a{ background-color: whitesmoke;
+    background-image:url(tiyake.jpg)}
+       a{background-color: rgba(253, 25, 37, 0.856);
+      font-size: 200%;
+text-decoration: none;}
+a :hover{ background-color: aquamarine;}
+H1{color: rgb(92, 2, 77); text-align: center;
+    }
+ body{padding: 10%;
+    background-image: url(building.jpg);}
+    p{color:black;
+    font-size: 140%;
+    text-align:left;
+     padding-left: 10%;
+    padding-right: 10%;
+    }
+    p::first-letter{
+        font-size: 420%;
+        float: left;
+        line-height: 0.7;
+    }
+

@@ -1,0 +1,21 @@
+H1{color: red; text-align: center;
+background-image: url(me.jpg);}
+h2{color: blue;text-align: center;}
+body{padding: 10%;}
+.container{color: blue;
+width: 80%;
+margin: auto;
+overflow: hidden;
+padding-top: 20%;}
+a :hover{ background-color: aquamarine;}
+p{color:black;
+background-color: rgba(248, 143, 157, 0.904);
+font-size: 140%;
+text-align:left;
+
+padding-left: 10%;
+padding-right: 10%;
+background-image: url();}
+.part2{color: white;
+font-weight: bold;}
+/* this is comment
